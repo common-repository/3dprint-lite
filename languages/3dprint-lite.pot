@@ -1,0 +1,1649 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-12 15:35+0300\n"
+"PO-Revision-Date: 2024-07-12 15:35+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: includes/3dprint-lite-admin-coatings-edit.php:57
+msgid "Back to coatings"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:69
+msgid "Coating Name"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:77
+msgid "Coating Description"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:84
+#: includes/3dprint-lite-admin-infills-edit.php:83
+#: includes/3dprint-lite-admin-materials-edit.php:129
+#: includes/3dprint-lite-admin-printers-edit.php:101
+msgid "Photo"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:100
+#: includes/3dprint-lite-admin-materials.php:19
+#: includes/3dprint-lite-admin-materials.php:382
+#: includes/3dprint-lite-admin-printers-edit.php:164
+msgid "Materials"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:117
+#: includes/3dprint-lite-admin-infills-edit.php:100
+#: includes/3dprint-lite-admin-materials-edit.php:158
+msgid "Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:119
+#: includes/3dprint-lite-admin-coatings-edit.php:131
+#: includes/3dprint-lite-admin-infills-edit.php:102
+#: includes/3dprint-lite-admin-infills-edit.php:114
+#: includes/3dprint-lite-admin-materials-edit.php:160
+#: includes/3dprint-lite-admin-materials-edit.php:183
+#: includes/3dprint-lite-admin-materials-edit.php:206
+#: includes/3dprint-lite-admin-printers-edit.php:671
+#: includes/3dprint-lite-admin-printers-edit.php:684
+#: includes/3dprint-lite-admin-printers-edit.php:704
+#: includes/3dprint-lite-admin-printers-edit.php:724
+msgid "per"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:121
+#: includes/3dprint-lite-admin-coatings-edit.php:133
+msgid "cm2 of surface area"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:122
+#: includes/3dprint-lite-admin-coatings-edit.php:134
+#: includes/3dprint-lite-admin-infills-edit.php:104
+#: includes/3dprint-lite-admin-infills-edit.php:116
+#: includes/3dprint-lite-admin-materials-edit.php:165
+#: includes/3dprint-lite-admin-materials-edit.php:188
+#: includes/3dprint-lite-admin-materials-edit.php:211
+#: includes/3dprint-lite-admin-printers-edit.php:677
+#: includes/3dprint-lite-admin-printers-edit.php:690
+#: includes/3dprint-lite-admin-printers-edit.php:710
+#: includes/3dprint-lite-admin-printers-edit.php:730
+msgid "Fixed Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:123
+#: includes/3dprint-lite-admin-coatings-edit.php:135
+#: includes/3dprint-lite-admin-materials-edit.php:175
+#: includes/3dprint-lite-admin-materials-edit.php:198
+#: includes/3dprint-lite-admin-printers-edit.php:696
+#: includes/3dprint-lite-admin-printers-edit.php:716
+#: includes/3dprint-lite-admin-printers-edit.php:736
+msgid "+% to total price (Available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:129
+#: includes/3dprint-lite-admin-infills-edit.php:112
+#: includes/3dprint-lite-admin-materials-edit.php:181
+#: includes/3dprint-lite-admin-materials-edit.php:204
+#: includes/3dprint-lite-admin-printers-edit.php:682
+#: includes/3dprint-lite-admin-printers-edit.php:702
+#: includes/3dprint-lite-admin-printers-edit.php:722
+msgid "Extra Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:143
+msgid "Coating Color"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:147
+msgid "Coating Shininess"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:150
+#: includes/3dprint-lite-admin-coatings-edit.php:163
+msgid "None"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:151
+#: includes/3dprint-lite-admin-materials-edit.php:256
+msgid "Plastic"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:152
+#: includes/3dprint-lite-admin-materials-edit.php:257
+msgid "Wood"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:153
+#: includes/3dprint-lite-admin-materials-edit.php:258
+msgid "Metal"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:160
+msgid "Coating transparency"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:164
+#: includes/3dprint-lite-admin-materials-edit.php:277
+msgid "Opaque"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:171
+msgid "Coating Glow"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:174
+#: includes/3dprint-lite-admin-materials-edit.php:267
+#: includes/3dprint-lite-admin-printers-edit.php:122
+msgid "No"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:175
+#: includes/3dprint-lite-admin-materials-edit.php:268
+#: includes/3dprint-lite-admin-printers-edit.php:121
+msgid "Yes"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:181
+#: includes/3dprint-lite-admin-materials-edit.php:332
+#: includes/3dprint-lite-admin-printers-edit.php:742
+msgid "Group Name"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:189
+#: includes/3dprint-lite-admin-infills-edit.php:127
+#: includes/3dprint-lite-admin-materials-edit.php:340
+#: includes/3dprint-lite-admin-printers-edit.php:750
+msgid "Sort Order"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings-edit.php:203
+#: includes/3dprint-lite-admin-infills-edit.php:141
+#: includes/3dprint-lite-admin-materials-edit.php:353
+#: includes/3dprint-lite-admin-printers-edit.php:767
+#: includes/3dprint-lite-admin.php:690
+msgid "Save Changes"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:18
+#: includes/3dprint-lite-admin-price-requests-edit.php:241
+#: includes/3dprint-lite-admin-price-requests.php:294
+#: includes/3dprint-lite-functions.php:733
+#: includes/3dprint-lite-functions.php:758
+#: includes/3dprint-lite-functions.php:950
+#: includes/templates/template_coating_colors.php:10
+#: includes/templates/template_coating_dropdown.php:9
+#: includes/templates/template_coating_dropdown.php:11
+#: includes/templates/template_coating_dropdown_new.php:9
+#: includes/templates/template_coating_dropdown_new.php:11
+#: includes/templates/template_coating_list.php:10
+msgid "Coating"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:19
+#: includes/3dprint-lite-admin-coatings.php:378
+#: includes/3dprint-lite-admin-materials-edit.php:309
+msgid "Coatings"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:120
+msgid "No coatings avaliable."
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:140
+#: includes/3dprint-lite-admin-infills.php:140
+#: includes/3dprint-lite-admin-materials.php:144
+#: includes/3dprint-lite-admin-printers.php:140
+msgid "Active"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:141
+#: includes/3dprint-lite-admin-infills.php:141
+#: includes/3dprint-lite-admin-materials.php:145
+#: includes/3dprint-lite-admin-printers.php:141
+msgid "Inactive"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:179
+#: includes/3dprint-lite-admin-infills.php:179
+#: includes/3dprint-lite-admin-materials.php:183
+#: includes/3dprint-lite-admin-price-requests.php:272
+#: includes/3dprint-lite-admin-printers.php:179
+msgid "Edit"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:180
+#: includes/3dprint-lite-admin-infills.php:180
+#: includes/3dprint-lite-admin-materials.php:184
+#: includes/3dprint-lite-admin-printers.php:180
+msgid "Clone"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:181
+#: includes/3dprint-lite-admin-infills.php:181
+#: includes/3dprint-lite-admin-materials.php:185
+#: includes/3dprint-lite-admin-price-requests.php:273
+#: includes/3dprint-lite-admin-printers.php:181
+msgid "Delete"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:196
+#: includes/3dprint-lite-admin-infills.php:196
+#: includes/3dprint-lite-admin-materials.php:200
+#: includes/3dprint-lite-admin-price-requests.php:288
+#: includes/3dprint-lite-admin-printers.php:196
+msgid "ID"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:197
+#: includes/3dprint-lite-admin-materials.php:201
+msgid "Color"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:198
+#: includes/3dprint-lite-admin-infills.php:197
+#: includes/3dprint-lite-admin-materials.php:202
+#: includes/3dprint-lite-admin-printers.php:197
+msgid "Name"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:199
+#: includes/3dprint-lite-admin-materials.php:203
+#: includes/3dprint-lite-admin-printers.php:198
+msgid "Group"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:200
+#: includes/3dprint-lite-admin-infills.php:199
+#: includes/3dprint-lite-admin-materials.php:204
+#: includes/3dprint-lite-admin-price-requests-edit.php:170
+#: includes/3dprint-lite-admin-price-requests.php:300
+#: includes/3dprint-lite-admin-printers.php:199
+msgid "Status"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:381
+#: includes/3dprint-lite-admin-coatings.php:396
+msgid "Add Coating"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:386
+#: includes/3dprint-lite-admin-infills.php:384
+#: includes/3dprint-lite-admin-materials.php:390
+#: includes/3dprint-lite-admin-printers.php:384
+msgid "Search in name or description"
+msgstr ""
+
+#: includes/3dprint-lite-admin-coatings.php:387
+#: includes/3dprint-lite-admin-infills.php:385
+#: includes/3dprint-lite-admin-materials.php:391
+#: includes/3dprint-lite-admin-printers.php:385
+msgid "Search"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills-edit.php:49
+msgid "Back to infills"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills-edit.php:61
+msgid "Infill Name"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills-edit.php:68
+msgid "Infill Value"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills-edit.php:76
+msgid "Infill Description"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills-edit.php:105
+#: includes/3dprint-lite-admin-infills-edit.php:117
+msgid "+% to material price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills-edit.php:106
+#: includes/3dprint-lite-admin-infills-edit.php:118
+msgid "+% to total price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills.php:18
+#: includes/3dprint-lite-admin-price-requests-edit.php:249
+#: includes/3dprint-lite-admin-price-requests-edit.php:388
+#: includes/3dprint-lite-admin-price-requests.php:295
+#: includes/3dprint-lite-functions.php:734
+#: includes/3dprint-lite-functions.php:759
+#: includes/3dprint-lite-functions.php:953
+#: includes/templates/template_infill_dropdown_new.php:7
+#: includes/templates/template_infill_dropdown_new.php:9
+#: includes/templates/template_infill_list.php:9
+msgid "Infill"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills.php:19
+#: includes/3dprint-lite-admin-infills.php:376
+#: includes/3dprint-lite-admin-printers-edit.php:179
+msgid "Infills"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills.php:120
+msgid "No infills avaliable."
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills.php:198
+msgid "Value"
+msgstr ""
+
+#: includes/3dprint-lite-admin-infills.php:379
+#: includes/3dprint-lite-admin-infills.php:394
+msgid "Add Infill"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:74
+msgid "Please input roll price, diameter and length"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:80
+msgid "Please input price and weight"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:92
+msgid "Please input diameter, length and weight"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:103
+msgid "Back to materials"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:114
+msgid "Material Name"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:122
+msgid "Material Description"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:147
+msgid "Material Type"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:150
+msgid "Filament"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:151
+#: includes/3dprint-lite-admin.php:662
+msgid "Other"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:152
+msgid "Laser Cutting Workpiece (available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:162
+#: includes/3dprint-lite-admin-materials-edit.php:185
+#: includes/3dprint-lite-admin-materials-edit.php:208
+msgid "1 cm3"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:163
+#: includes/3dprint-lite-admin-materials-edit.php:186
+#: includes/3dprint-lite-admin-materials-edit.php:209
+msgid "1 gram"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:164
+#: includes/3dprint-lite-admin-materials-edit.php:187
+#: includes/3dprint-lite-admin-materials-edit.php:210
+#: includes/3dprint-lite-admin-printers-edit.php:675
+#: includes/3dprint-lite-admin-printers-edit.php:688
+#: includes/3dprint-lite-admin-printers-edit.php:708
+#: includes/3dprint-lite-admin-printers-edit.php:728
+msgid ""
+"1 cm3 of Removed Material Volume (bounding box volume - material volume)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:167
+#: includes/3dprint-lite-admin-materials-edit.php:190
+msgid "1 cm2 of surface area (Available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:168
+#: includes/3dprint-lite-admin-materials-edit.php:191
+msgid "1 cm2 of Bounding Box XY (Available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:169
+#: includes/3dprint-lite-admin-materials-edit.php:192
+#: includes/3dprint-lite-admin-printers-edit.php:692
+#: includes/3dprint-lite-admin-printers-edit.php:712
+#: includes/3dprint-lite-admin-printers-edit.php:732
+msgid "1 cm3 of Support Material Volume (Available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:170
+#: includes/3dprint-lite-admin-materials-edit.php:193
+#: includes/3dprint-lite-admin-printers-edit.php:693
+#: includes/3dprint-lite-admin-printers-edit.php:713
+#: includes/3dprint-lite-admin-printers-edit.php:733
+msgid "Support Material Removal Fixed Charge (Available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:171
+#: includes/3dprint-lite-admin-materials-edit.php:194
+msgid ""
+"1 cm3 of Removed Material Volume (bounding box volume - material volume) "
+"(Available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:172
+#: includes/3dprint-lite-admin-materials-edit.php:195
+#: includes/3dprint-lite-admin-printers-edit.php:694
+#: includes/3dprint-lite-admin-printers-edit.php:714
+#: includes/3dprint-lite-admin-printers-edit.php:734
+msgid "1 cm of Laser Cutting Total Path (Available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:173
+#: includes/3dprint-lite-admin-materials-edit.php:196
+msgid ""
+"1 gram of volumetric weight (higher value of actual and volumetric weight) "
+"(Available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:174
+#: includes/3dprint-lite-admin-materials-edit.php:197
+#: includes/3dprint-lite-admin-printers-edit.php:695
+#: includes/3dprint-lite-admin-printers-edit.php:715
+#: includes/3dprint-lite-admin-printers-edit.php:735
+msgid "1 Hour (Analyse API required) (Available in Premium version)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:177
+#: includes/3dprint-lite-admin-materials-edit.php:200
+#: includes/3dprint-lite-admin-materials-edit.php:214
+#: includes/3dprint-lite-admin-materials-edit.php:224
+msgid "Calculate"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:221
+msgid "Material Density"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:223
+msgid "g/cm3"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:229
+msgid "Filament Diameter"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:230
+#: includes/3dprint-lite-admin-printers-edit.php:140
+#: includes/3dprint-lite-admin-printers-edit.php:145
+#: includes/3dprint-lite-admin-printers-edit.php:150
+#: includes/3dprint-lite-admin-printers-edit.php:155
+#: includes/3dprint-lite-admin-printers-edit.php:160
+#: includes/3dprint-lite-frontend.php:232
+msgid "mm"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:234
+msgid "Filament Length"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:235
+msgid "m"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:239
+msgid "Roll Weight"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:240
+msgid "kg"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:244
+msgid "Roll Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:249
+msgid "Material Color"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:253
+msgid "Material Shininess"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:264
+msgid "Material Glow"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:274
+msgid "Material Transparency"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:278
+msgid "Resin"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:279
+msgid "Glass"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials-edit.php:286
+#: includes/3dprint-lite-admin-printers.php:19
+#: includes/3dprint-lite-admin-printers.php:376
+msgid "Printers"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials.php:18
+#: includes/3dprint-lite-admin-price-requests-edit.php:234
+#: includes/3dprint-lite-admin-price-requests-edit.php:398
+#: includes/3dprint-lite-admin-price-requests.php:293
+#: includes/3dprint-lite-functions.php:732
+#: includes/3dprint-lite-functions.php:757
+#: includes/3dprint-lite-functions.php:951
+#: includes/templates/template_material_colors.php:9
+#: includes/templates/template_material_dropdown.php:8
+#: includes/templates/template_material_dropdown.php:10
+#: includes/templates/template_material_dropdown_new.php:9
+#: includes/templates/template_material_dropdown_new.php:11
+#: includes/templates/template_material_list.php:9
+msgid "Material"
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials.php:124
+msgid "No materials avaliable."
+msgstr ""
+
+#: includes/3dprint-lite-admin-materials.php:385
+#: includes/3dprint-lite-admin-materials.php:400
+msgid "Add Material"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:72
+msgid "Your model's price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:79
+#: includes/3dprint-lite-admin-price-requests-edit.php:259
+#: includes/3dprint-lite-admin-price-requests-edit.php:265
+#: includes/3dprint-lite-admin-price-requests-edit.php:271
+#: includes/3dprint-lite-admin-price-requests-edit.php:277
+#: includes/3dprint-lite-frontend.php:120
+#: includes/3dprint-lite-frontend.php:255
+#: includes/3dprint-lite-frontend.php:309
+msgid "cm"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:116
+msgid ""
+"Could not email the quote! Check if your wordpress site can send emails and "
+"consider installing Easy WP SMTP plugin."
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:151
+msgid "Back to price requests"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:177
+#: includes/3dprint-lite-admin-price-requests.php:225
+msgid "Request received"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:180
+#: includes/3dprint-lite-admin-price-requests.php:224
+msgid "Quote sent"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:183
+#: includes/3dprint-lite-admin-price-requests.php:223
+msgid "Order placed"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:186
+#: includes/3dprint-lite-admin-price-requests.php:222
+msgid "Failed to send out e-mail"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:194
+msgid "Buy Now URL"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:202
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:210
+msgid "Model File"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:218
+#: includes/3dprint-lite-frontend.php:363
+#: includes/3dprint-lite-functions.php:730
+#: includes/3dprint-lite-functions.php:755
+msgid "Quantity"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:228
+#: includes/3dprint-lite-admin-price-requests-edit.php:377
+#: includes/3dprint-lite-admin-price-requests.php:292
+#: includes/3dprint-lite-admin-printers.php:18
+#: includes/3dprint-lite-functions.php:731
+#: includes/3dprint-lite-functions.php:756
+#: includes/3dprint-lite-functions.php:952
+#: includes/templates/template_printer_dropdown.php:7
+#: includes/templates/template_printer_dropdown.php:9
+#: includes/templates/template_printer_dropdown_new.php:7
+#: includes/templates/template_printer_dropdown_new.php:9
+#: includes/templates/template_printer_list.php:9
+msgid "Printer"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:257
+msgid "Model Length"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:263
+msgid "Model Width"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:269
+msgid "Model Height"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:275
+#: includes/3dprint-lite-functions.php:737
+#: includes/3dprint-lite-functions.php:760
+msgid "Dimensions"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:281
+#: includes/3dprint-lite-functions.php:736
+msgid "Resize Scale"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:287
+#: includes/3dprint-lite-functions.php:735
+msgid "Unit"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:293
+msgid "Weight"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:295
+#: includes/3dprint-lite-frontend.php:300
+msgid "g"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:303
+msgid "Customer E-mail"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:313
+msgid "Customer Notes"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:322
+msgid "Admin Notes"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:331
+#: includes/3dprint-lite-functions.php:738
+msgid "Estimated Unit Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:339
+msgid "Estimated Total Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:347
+msgid "Set Unit Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:370
+msgid "Re-Slice Options"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:412
+msgid "Re-Slice"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:413
+msgid "Analysing"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:443
+#: includes/3dprint-lite-admin-price-requests.php:500
+msgid "Estimated Price Total"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:444
+#: includes/3dprint-lite-admin-price-requests.php:501
+msgid "Set Price Total"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:449
+#: includes/3dprint-lite-admin.php:1083
+msgid "Save"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests-edit.php:450
+msgid "Save & Notify Customer"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:18
+msgid "Price Request"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:19
+#: includes/3dprint-lite-admin-price-requests.php:467
+msgid "Price Requests"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:134
+msgid "No price requests avaliable."
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:289
+msgid "Image"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:290
+msgid "File name"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:291
+msgid "QTY"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:296
+msgid "Estimated Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:297
+msgid "Set Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:298
+#: includes/3dprint-lite-functions.php:728
+msgid "E-mail"
+msgstr ""
+
+#: includes/3dprint-lite-admin-price-requests.php:299
+msgid "Date"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:61
+msgid "Back to printers"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:74
+msgid "Printer Name"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:82
+msgid "Printer Type"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:85
+msgid "FFF/FDM"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:86
+msgid "DLP/SLA (available in Premium)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:87
+msgid "Laser Cutting (available in Premium)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:88
+msgid "Other (available in Premium)"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:94
+msgid "Printer Description"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:118
+msgid "Full Color Printing"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:129
+msgid "Build Tray Shape"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:132
+msgid "Rectangle"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:133
+msgid "Circle"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:139
+msgid "Build Tray Diameter"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:144
+msgid "Build Tray Length"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:149
+msgid "Build Tray Width"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:154
+msgid "Build Tray Height"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:159
+msgid "Minimum Model Side"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:190
+msgid "Default Infill:"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:206
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:669
+msgid "Printing Cost"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:673
+#: includes/3dprint-lite-admin-printers-edit.php:686
+#: includes/3dprint-lite-admin-printers-edit.php:706
+#: includes/3dprint-lite-admin-printers-edit.php:726
+msgid "1 cm3 of Bounding Box Volume"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:674
+#: includes/3dprint-lite-admin-printers-edit.php:687
+#: includes/3dprint-lite-admin-printers-edit.php:707
+#: includes/3dprint-lite-admin-printers-edit.php:727
+msgid "1 cm3 of Material Volume"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers-edit.php:676
+#: includes/3dprint-lite-admin-printers-edit.php:689
+#: includes/3dprint-lite-admin-printers-edit.php:709
+#: includes/3dprint-lite-admin-printers-edit.php:729
+msgid "1 gram of Material"
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers.php:124
+msgid "No printers avaliable."
+msgstr ""
+
+#: includes/3dprint-lite-admin-printers.php:379
+#: includes/3dprint-lite-admin-printers.php:394
+msgid "Add Printer"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:140
+msgid "Shortcode:"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:142
+msgid "3D printing settings"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:147
+msgid "Settings"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:150
+msgid "Pricing"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:154
+msgid "Get a Quote"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:158
+msgid "Give an estimate and request price"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:159
+msgid "Request price"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:160
+msgid "Calculate price and add to cart (Premium only)"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:166 includes/3dprint-lite-admin.php:176
+msgid "Minimum Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:173
+msgid "Minimum Price Type"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:177
+msgid "Starting Price"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:179
+msgid ""
+"Minimum Price: if total is less than minimum price then total = minimum "
+"price. Starting Price: total = total + starting price."
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:184
+msgid "Currency"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:192
+msgid "Currency Position"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:196
+msgid "Left"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:197
+msgid "Left with space"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:198
+msgid "Right"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:199
+msgid "Right with space"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:205
+msgid "Number of Decimals"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:213
+msgid "Thousands Separator"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:221
+msgid "Decimal Point"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:228
+msgid "Round Price To"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:230
+msgid "digits"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:231
+msgid ""
+"Examples:<br>2 digits rounds 1.9558 to 1.96<br>-3 digits rounds 1241757 to "
+"1242000"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:238
+msgid "Show Support Charges"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:241
+msgid ""
+"Shows support removal charges on the product page (Analyse API required)."
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:247
+msgid "Price Debug Mode"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:251
+msgid ""
+"Shows price calculation details on the product page in the browser console "
+"(F12)"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:259
+msgid "Product Viewer"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:262
+msgid "Canvas Resolution"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:264
+msgid "Width"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:264
+msgid "Height"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:265
+msgid "Only affects the image quality"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:270
+msgid "Shading"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:273
+msgid "Flat"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:274
+msgid "Smooth"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:282
+msgid "Cookie Lifetime"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:285
+msgid "(no cookies)"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:288 includes/3dprint-lite-admin.php:658
+msgid "days"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:292
+msgid "Multistep Process"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:294
+msgid ""
+"Enables the user to collapse & expand steps by clicking on next/back buttons"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:301
+msgid "Adjust canvas position on scroll"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:306
+msgid "Background Color"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:310
+msgid "Grid Color"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:314
+msgid "Ground Color"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:319
+msgid "Light Sources"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:347
+msgid "Printer Color"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:351
+msgid "Button Background"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:355
+msgid "Button Shadow"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:359
+msgid "Button Progress Bar"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:363
+msgid "Button Font"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:367
+msgid "Button Tick"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:372
+msgid "Loading Image"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:380
+msgid "Auto Scale"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:382
+msgid "Enables automatic scaling if a model is too large or too small."
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:387
+msgid "Auto Rotation"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:391
+msgid "Auto Rotation Speed"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:397
+msgid "Auto Rotation Direction"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:400
+msgid "Clockwise"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:401
+msgid "Counter-Clockwise"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:407
+msgid "Resize model on scale"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:411
+msgid "Fit camera to model on resize"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:415
+msgid "Show Shadows"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:419
+msgid "Ground Mirror"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:424
+msgid "Show Grid"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:429
+msgid "Show Upload Button"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:433
+msgid "Show Scaling Controls"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:439
+msgid "Can Scale Axis Independently"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:446
+msgid "Show Rotation Controls"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:453
+msgid "Show Printer Box"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:457
+msgid "Show Canvas Stats"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:461
+msgid "Show File Unit"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:465
+msgid "Show Model Stats"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:470 includes/3dprint-lite-frontend.php:273
+msgid "Material Volume"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:474
+msgid "Support Material Volume"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:480 includes/3dprint-lite-frontend.php:281
+msgid "Box Volume"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:484 includes/3dprint-lite-frontend.php:289
+msgid "Surface Area"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:488 includes/3dprint-lite-frontend.php:297
+msgid "Model Weight"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:492 includes/3dprint-lite-frontend.php:305
+msgid "Model Dimensions"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:496
+msgid "Print Time"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:510
+msgid "Selection Order"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:513
+msgid "First materials, then printers"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:514
+msgid "First printers, then materials"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:520
+msgid "Tooltip Engine"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:523
+msgid "Tippy"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:524
+msgid "Tooltipster (deprecated)"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:529
+msgid "Tooltip Theme"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:532
+msgid "Light"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:533
+msgid "Dark"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:540
+msgid "Printers Layout"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:543 includes/3dprint-lite-admin.php:557
+#: includes/3dprint-lite-admin.php:571 includes/3dprint-lite-admin.php:585
+msgid "List"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:544 includes/3dprint-lite-admin.php:558
+#: includes/3dprint-lite-admin.php:572 includes/3dprint-lite-admin.php:586
+msgid "Dropdown (Deprecated)"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:545 includes/3dprint-lite-admin.php:559
+#: includes/3dprint-lite-admin.php:573 includes/3dprint-lite-admin.php:587
+msgid "Dropdown (New)"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:546 includes/3dprint-lite-admin.php:561
+#: includes/3dprint-lite-admin.php:575
+msgid "Searchable Dropdown (available in Premium)"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:547 includes/3dprint-lite-admin.php:562
+#: includes/3dprint-lite-admin.php:576
+msgid "Slider (available in Premium)"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:548 includes/3dprint-lite-admin.php:563
+#: includes/3dprint-lite-admin.php:577
+msgid "Group Slider (available in Premium)"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:554
+msgid "Materials Layout"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:560 includes/3dprint-lite-admin.php:574
+msgid "Colors"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:568
+msgid "Coatings Layout"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:582
+msgid "Infills Layout"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:596
+msgid "Show Printers"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:600
+msgid "Show Materials"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:604
+msgid "Show Coatings"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:608
+msgid "Show Infills"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:614
+msgid "Form builder"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:623
+msgid "Use NinjaForms"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:627
+msgid "Use NinjaForms 3.0+ builder for the price request form."
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:631
+msgid "NinjaForms ID"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:633
+msgid "Generate"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:642
+msgid "File Upload"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:645
+msgid "Max. File Size"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:646 includes/3dprint-lite-admin.php:650
+msgid "mb"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:649
+msgid "File Chunk Size"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:653
+msgid "Allowed Extensions"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:657
+msgid "Delete files older than"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:665
+msgid "Email"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:667
+msgid "The email where price requests go."
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:671
+msgid "Items per page"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:674
+msgid "Number of iterms per page in the admin area."
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:678
+msgid "Load On"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:681
+msgid "Pages with the shortcode"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:682
+msgid "Everywhere"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:684
+msgid "Loads css and js files on certain pages of the site."
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:1039
+msgid "Email Templates"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:1042
+msgid "E-mail to admin"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:1044 includes/3dprint-lite-admin.php:1061
+msgid "Available shortcodes"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:1046 includes/3dprint-lite-admin.php:1063
+msgid "From"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:1047
+msgid ""
+"Please note that if you put a domain name different from your site's domain  "
+"the email may go to spam."
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:1050 includes/3dprint-lite-admin.php:1067
+msgid "Subject"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:1051 includes/3dprint-lite-admin.php:1068
+msgid "Preserve HTML"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:1060
+msgid "E-mail to client"
+msgstr ""
+
+#: includes/3dprint-lite-admin.php:1064
+msgid ""
+"Please note that if you put a domain name different from your site's domain "
+"the email may go to spam."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:67
+msgid "File name must only contain latin characters and numbers."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:72
+msgid "Please enter valid email address."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:141
+msgid ""
+"Store owner has been notified about your request. You'll receive the email "
+"with the price shortly."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:145
+msgid "Could not send the email. Please try again later."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:190
+msgid "Click here to upload."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:194
+msgid "Click here to upload or drag and drop your model to the canvas."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:199
+msgid ""
+"The model is too large and has been resized to fit in the printer's build "
+"tray."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:199
+#: includes/3dprint-lite-frontend.php:200
+#: includes/3dprint-lite-frontend.php:201
+#: includes/3dprint-lite-frontend.php:202
+#: includes/3dprint-lite-frontend.php:203
+#: includes/3dprint-lite-frontend.php:204
+msgid "[Hide]"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:200
+msgid "The model is too large to fit in the printer's build tray."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:201
+msgid "The model is too large, a fitting printer is selected."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:202
+msgid "The model is too small and has been upscaled."
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:203
+msgid "Warning: The selected printer can not print in full color"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:204
+msgid "Warning: obj models with multiple meshes are not yet supported"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:218
+#: includes/3dprint-lite-frontend.php:223
+msgid "Upload Model"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:229
+msgid "File Unit:"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:235
+msgid "inch"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:239
+msgid "Scale:"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:276
+#: includes/3dprint-lite-frontend.php:284
+msgid "cm3"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:292
+msgid "cm2"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:320
+msgid "Estimated Price:"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:361
+msgid "Enter Your E-mail"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:362
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/3dprint-lite-frontend.php:364
+msgid "Request a Quote"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:729
+#: includes/3dprint-lite-functions.php:754
+msgid "Model"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:739
+#: includes/3dprint-lite-functions.php:763
+msgid "Comments"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:740
+msgid "Manage Price Requests"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:749
+msgid "Price enquiry from"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:761
+msgid "Unit Price"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:762
+msgid "Total Price"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:773
+msgid "Your model price"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:946
+msgid ""
+"<span id='printer_fit_error'><b>Error:</b> The model does not fit into the "
+"selected printer</span>"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:947
+msgid ""
+"<span id='printer_fit_warning'><b>Warning:</b> The model might not fit into "
+"the selected printer</span>"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:948
+msgid "<span><b>Error:</b>Model not found</span>"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:949
+msgid "<b>Warning:</b> Can't triangulate"
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1033
+#, php-format
+msgid ""
+"You have %s unassigned materials. They will not be displayed on the frontend."
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1396
+msgid "Wrong file extension."
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1407
+msgid "Failed to open temp directory."
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1429
+msgid "Failed to open output stream."
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1434
+msgid "Failed to move uploaded file. Error code: "
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1439
+#: includes/3dprint-lite-functions.php:1443
+msgid "Failed to open input stream."
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1505
+msgid "Model file not found."
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1510
+msgid "Could not extract the file."
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1514
+msgid "The server does not support zip archives."
+msgstr ""
+
+#: includes/3dprint-lite-functions.php:1528
+msgid "Extracted file is too large."
+msgstr ""
